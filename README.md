@@ -1,6 +1,5 @@
-Rails Rutas
+Cucumber rails example
 ====
 
-Project Rutas
 
-Main purpose of this project is to build
+Uses Cucumber as BDD
